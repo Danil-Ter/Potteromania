@@ -1,0 +1,27 @@
+.magic-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 20px;
+}
+
+.spells-list {
+  flex: 1;
+}
+
+.spells-list h2 {
+  font-size: 24px; /* Увеличьте размер заголовка */
+  margin-bottom: 10px;
+}
+
+.spells-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.spells-list li {
+  font-size: 18px; /* Увеличьте размер текста */
+  margin-bottom: 10px;
+}
+
+/* Добавьте другие стили, если необходимо */
