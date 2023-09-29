@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Magic.scss';
+import './magic.scss';
 
 function Magic() {
   const [spells, setSpells] = useState([]);
